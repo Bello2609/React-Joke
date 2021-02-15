@@ -1,0 +1,11 @@
+.Header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 8vh;
+    background-color: rgb(186, 48, 199);
+}
+.Header h1{
+    color: #fff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
