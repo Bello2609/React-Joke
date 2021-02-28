@@ -1,0 +1,11 @@
+.Message{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-self: center;
+    z-index: 200;
+}
+.Message p{
+    color: rgb(245, 7, 7);
+    font-size: 30px;
+}

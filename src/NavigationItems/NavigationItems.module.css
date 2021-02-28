@@ -22,11 +22,7 @@
     color: #fff;
     font-size: 18px;
 }
-.Navigation ul li:hover{
-   background-color: #fff;
-   border-bottom: 2px solid green;
-   z-index: 200;
-}
+
 
 
 
